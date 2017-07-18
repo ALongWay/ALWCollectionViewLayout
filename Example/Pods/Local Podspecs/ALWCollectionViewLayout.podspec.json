@@ -1,0 +1,22 @@
+{
+  "name": "ALWCollectionViewLayout",
+  "version": "0.1.0",
+  "summary": "A short description of ALWCollectionViewLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lisong/ALWCollectionViewLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lisong": "lisong@douyu.tv"
+  },
+  "source": {
+    "git": "https://github.com/lisong/ALWCollectionViewLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ALWCollectionViewLayout/Classes/**/*"
+}

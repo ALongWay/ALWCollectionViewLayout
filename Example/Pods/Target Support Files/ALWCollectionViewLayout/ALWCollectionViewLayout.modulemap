@@ -1,0 +1,6 @@
+framework module ALWCollectionViewLayout {
+  umbrella header "ALWCollectionViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
